@@ -1,0 +1,13 @@
+.gradle
+gradlew
+gradlew.bat
+build/
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### IntelliJ IDEA ###
+.idea
+!**/src/main/**/out/
+!**/src/test/**/out/
